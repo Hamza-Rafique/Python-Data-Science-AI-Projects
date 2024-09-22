@@ -1,5 +1,7 @@
 # Python Data Science & AI Projects
 
+![Python Data Science & AI Projects](./assets/web%20app.gif)
+
 This repository contains beginner-friendly projects for Data Science and AI developers using Python. Each project is aimed to teach core concepts and build hands-on experience in data science, machine learning, and AI.
 
 ## Table of Contents
